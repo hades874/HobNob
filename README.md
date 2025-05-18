@@ -11,8 +11,7 @@
 
 ## 🛠️ Technologies Used
 
-* Front-End Language: HTML (Hyper Text Markup Language)
-                      CSS (Cascading Style Sheet)
+* Front-End Language: HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheet)
 
 * Back-End Language: PHP (Personal Home Page)
 
